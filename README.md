@@ -124,4 +124,13 @@ matplotlib – Visualization
 
 reportlab – PDF report generation
 
+---
+
+## Author
+**Created by @Yash**
+
+If you found this useful, consider leaving a ⭐ on the repository!
+
+---
+
 
